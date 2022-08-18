@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e474qjbh9wfgk14jzjqjd35ytdqz63n5be60b4okg8q&rid=giphy.gif&ct=g" align="right"  width="400" height="250">
 
-## Hi there, I'm Eren. :blush:
+## Hi there, I'm Eren. :sunglasses:
 
 #### I started my software life with C# at the age of 16 in Haydar Akın vocational high school. Today, I continue my education at Çanakkale 18 Mart University Computer Programming, I am trying to adapt to many software languages ​​with my education.
 
