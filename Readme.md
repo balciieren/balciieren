@@ -4,8 +4,6 @@
 
 #### I started my software life with C# at the age of 16 in Haydar Akın vocational high school. Today, I continue my education at Çanakkale 18 Mart University Computer Programming, I am trying to adapt to many software languages ​​with my education.
 
-<font color="red">Coffee :coffee: is how I keep up with '< code />' </font>
-
 ## Reach out to me
 
 [<img width="35 " height="35" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
