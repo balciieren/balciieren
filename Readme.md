@@ -25,10 +25,10 @@
 <br/>
 <br/>
 
-<details>
+
 <summary>:bulb: Github Stats</summary>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=balciieren&theme=radical">
-</details>
 
 <br/>
 
