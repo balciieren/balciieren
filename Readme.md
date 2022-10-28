@@ -32,9 +32,8 @@
 
 <br/>
 
-<details>
+
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balciieren&layout=compact">
-</details>
 
 [linkedin]: https://www.linkedin.com/in/eren-balci-7a96511b0/
