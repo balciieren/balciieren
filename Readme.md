@@ -28,6 +28,7 @@
 <img align="top" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"alt="Css" height="55" style="vertical-align:top; margin:4px" />
 <img align="top" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="53" style="vertical-align:top; margin:4px"/>
 <img align="top" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="55" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png" alt="Delphi" height="55" style="vertical-align:top; margin:4px"/>
 <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"height="60" alt=".Net" style="vertical-align:top; margin:4px"/>
 <img align="top" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" height="55" alt="Python" style="vertical-align:top; margin:4px"/>
 <img align="top" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="55" alt="Java" style="vertical-align:top; margin:4px"/>
@@ -35,9 +36,16 @@
 <img align="top" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" height="60" style="vertical-align:top; margin:4px"/>
 <img align="top" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="Php" height="60" style="vertical-align:top; margin:4px"/>
 <img align="top" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="55" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg" alt="Microsoft SQL Server Management" height="55" style="vertical-align:top; margin:4px"/>
 <img align="top" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"height="60" alt="Git" style="vertical-align:top; margin:4px"/>
-<img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"height="60" alt="Photoshop" style="vertical-align:top; margin:4px"/>
-<img align="top"src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"height="60" alt="Photoshop" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"height="60" alt="Photoshop" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/2101px-Adobe_Animate_CC_icon.svg.png"height="60" alt="Animate" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Fireworks_CS6_Icon.png"height="60" alt="Fireworks" style="vertical-align:top; margin:4px"/>
+<img align="top"src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"height="60" alt="Figma" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png"height="60" alt="Word" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"height="60" alt="Excel" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png"height="60" alt="Powerpoint" style="vertical-align:top; margin:4px"/>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/800px-Microsoft_Office_Access_%282019-present%29.svg.png"height="60" alt="Access" style="vertical-align:top; margin:4px"/>
 <br/>
 
 <details>
