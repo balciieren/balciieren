@@ -14,7 +14,8 @@
 <a href="https://www.instagram.com/balciieren/?hl=tr" target="_blank" rel="noopener noreferrer"> <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="İnstagram" height="60" style="vertical-align:left; margin:4px"></a>
 <a href="https://www.linkedin.com/in/eren-balci-7a96511b0/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/74072821/123178652-50265280-d490-11eb-9c74-0be10a24cc16.png" alt="linkedin" height="60" style="vertical-align:left; margin:4px"></a>
 <a href=https://stackoverflow.com/users/20360476/eren-balci" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/7b16d6d23db27c61d49dc44b675fa1e8825ab4faed2a9adb300b6c4c8ecd2db3/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f34302f3030303030302f65787465726e616c2d737461636b2d6f766572666c6f772d69732d612d7175657374696f6e2d616e642d616e737765722d736974652d666f722d70726f66657373696f6e616c2d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" alt="Python" height="60" style="vertical-align:left; margin:4px"></a>
-<a href="mailto:balciierenn@gmail.com"> <img src="https://user-images.githubusercontent.com/74072821/123174676-2b7aac80-d489-11eb-8717-6573a27a2520.png" alt="Python" height="70" style="vertical-align:left; margin:4px"></a>
+<a href="mailto:balciierenn@gmail.com"> <img src="https://user-images.githubusercontent.com/74072821/123174676-2b7aac80-d489-11eb-8717-6573a27a2520.png" alt="Python" height="70" style="vertical-align:left; margin:4px"></a> 
+<a href="https://www.kaggle.com/balciieren"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Python" height="70" style="vertical-align:left; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
