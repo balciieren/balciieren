@@ -4,15 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=2000&color=635BF7&background=0CFF6600&center=true&lines=Hi%F0%9F%91%8B%2Cthere+I'm+Eren+%7B%F0%9F%98%8E%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB%7D)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balciieren&label=Profile%20views&color=0e75b6&style=flat" alt="balciieren" /> </p>
+
 
 #### I started my software life with C# at the age of 16 in Haydar Akın vocational high school. Today, I continue my education at Çanakkale 18 Mart University Computer Programming, I am trying to adapt to many software languages ​​with my education.
 #### Yazılım hayatıma 16 yaşında Haydar Akın meslek lisesinde C# ile başladım. Bugün Çanakkale 18 Mart Üniversitesi Bilgisayar Programcılığı'nda eğitimime devam etmekteyim, eğitimim ile bir çok yazılım diline uyum sağlamaya çalışıyorum.
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balciieren&label=Profile%20views&color=0e75b6&style=flat" alt="balciieren" /> </p>
 
 ## ✉️ Reach out to me: <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
 
 <p align="center">
 <a href="https://www.instagram.com/balciieren/?hl=tr" target="_blank" rel="noopener noreferrer"> <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="İnstagram" height="60" style="vertical-align:left; margin:4px"></a>
