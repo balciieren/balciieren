@@ -1,9 +1,6 @@
-<img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e474qjbh9wfgk14jzjqjd35ytdqz63n5be60b4okg8q&rid=giphy.gif&ct=g" align="right"  width="350" height="250">
-
-<br/>
+<img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e474qjbh9wfgk14jzjqjd35ytdqz63n5be60b4okg8q&rid=giphy.gif&ct=g" align="right"  width="400" height="250">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=2000&color=635BF7&background=0CFF6600&center=true&lines=Hi%F0%9F%91%8B%2Cthere+I'm+Eren+%7B%F0%9F%98%8E%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB%7D)](https://git.io/typing-svg)
-
 
 
 #### I started my software life with C# at the age of 16 in Haydar Akın vocational high school. Today, I continue my education at Çanakkale 18 Mart University Computer Programming, I am trying to adapt to many software languages ​​with my education.
