@@ -1,10 +1,12 @@
 <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e474qjbh9wfgk14jzjqjd35ytdqz63n5be60b4okg8q&rid=giphy.gif&ct=g" align="right"  width="400" height="250">
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=2000&color=635BF7&background=0CFF6600&center=true&lines=Hi%F0%9F%91%8B%2Cthere+I'm+Eren+%7B%F0%9F%98%8E%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB%7D)](https://git.io/typing-svg)
 
 
 #### I started my software life with C# at the age of 16 in Haydar Akın vocational high school. Today, I continue my education at Çanakkale 18 Mart University Computer Programming, I am trying to adapt to many software languages ​​with my education.
 #### Yazılım hayatıma 16 yaşında Haydar Akın meslek lisesinde C# ile başladım. Bugün Çanakkale 18 Mart Üniversitesi Bilgisayar Programcılığı'nda eğitimime devam etmekteyim, eğitimim ile bir çok yazılım diline uyum sağlamaya çalışıyorum.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balciieren&label=Profile%20views&color=0e75b6&style=flat" alt="balciieren" /> </p>
 
@@ -13,9 +15,10 @@
 <p align="center">
 <a href="https://www.instagram.com/balciieren/?hl=tr" target="_blank" rel="noopener noreferrer"> <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="İnstagram" height="60" style="vertical-align:left; margin:4px"></a>
 <a href="https://www.linkedin.com/in/eren-balci-7a96511b0/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/74072821/123178652-50265280-d490-11eb-9c74-0be10a24cc16.png" alt="linkedin" height="60" style="vertical-align:left; margin:4px"></a>
-<a href=https://stackoverflow.com/users/20360476/eren-balci" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/7b16d6d23db27c61d49dc44b675fa1e8825ab4faed2a9adb300b6c4c8ecd2db3/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f34302f3030303030302f65787465726e616c2d737461636b2d6f766572666c6f772d69732d612d7175657374696f6e2d616e642d616e737765722d736974652d666f722d70726f66657373696f6e616c2d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" alt="Python" height="60" style="vertical-align:left; margin:4px"></a>
-<a href="mailto:balciierenn@gmail.com"> <img src="https://user-images.githubusercontent.com/74072821/123174676-2b7aac80-d489-11eb-8717-6573a27a2520.png" alt="Python" height="70" style="vertical-align:left; margin:4px"></a> 
-<a href="https://www.kaggle.com/balciieren"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Python" height="70" style="vertical-align:left; margin:4px"></a>
+<a href=https://stackoverflow.com/users/20360476/eren-balci" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/7b16d6d23db27c61d49dc44b675fa1e8825ab4faed2a9adb300b6c4c8ecd2db3/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f34302f3030303030302f65787465726e616c2d737461636b2d6f766572666c6f772d69732d612d7175657374696f6e2d616e642d616e737765722d736974652d666f722d70726f66657373696f6e616c2d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" alt="Stackoverflow" height="60" style="vertical-align:left; margin:4px"></a>
+<a href="mailto:balciierenn@gmail.com"> <img src="https://user-images.githubusercontent.com/74072821/123174676-2b7aac80-d489-11eb-8717-6573a27a2520.png" alt="Gmail" height="70" style="vertical-align:left; margin:4px"></a> 
+<a href="https://www.kaggle.com/balciieren"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="70" style="vertical-align:left; margin:4px"></a>
+<a href="https://app.patika.dev/balciieren"> <img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="Patika" height="85" style="vertical-align:left; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
@@ -60,7 +63,7 @@
 </p>
                                                                               
 <p align="center">:bulb: Most Used Languages</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balciieren&layout=compact"></p>                           
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balciieren&langs_count=10&theme=tokyonight&layout=compact" alt="balciieren :: Top Langs"></p>
                                                                               
 <div width="50%" align="center">
 <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=balciieren&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
