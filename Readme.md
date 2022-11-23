@@ -48,8 +48,9 @@
 <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/800px-Microsoft_Office_Access_%282019-present%29.svg.png"height="60" alt="Access" style="vertical-align:top; margin:4px"/>
 <br/>
 
+                                                                                       
 <details>
-<summary align="center">🏆 Github Stats</summary>
+<summary align="center"><h4>🏆 Github Stats</h4></summary>
 <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=balciieren&row=2&column=4&no-frame=true&margin-w=8&margin-h=8" alt="balciieren" /></p>
 </details>
 
@@ -74,8 +75,24 @@
 
 
 <div width="50%" align="center">
-<p align="center">:bulb: Snake Contributions</p>
+<h4 align="center">🐍 Snake eating my contribution 🐍</h4>
 <img width="80%" src="https://raw.githubusercontent.com/balciieren/balciieren/output/github-contribution-grid-snake.svg"></div>
                                                                                                                         
-                                                                                                                       
+<h4 align="center">👨‍💻 Repositories 👨‍💻</h4>
+<br>
+<div width="100%" align="center">
+<a align="left" href="https://github.com/balciieren/Java-Examples" title="Java Examples"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=balciieren&repo=Java-Examples&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/balciieren/C-Examples" title="C Examples"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=balciieren&repo=C-Examples&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+<a align="left" href="https://github.com/balciieren/Bootstrap5-Tutorial" title="Bootstrap5 Tutorial"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=balciieren&repo=Bootstrap5-Tutorial&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/balciieren/Web-design-project-final-exam-university" title="Web design project final exam university"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=balciieren&repo=Web-design-project-final-exam-university&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/balciieren?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>                                                                                                                       
                                                                                                              
