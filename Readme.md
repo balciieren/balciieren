@@ -70,13 +70,9 @@
 </a>
 </div>
 <br>                                                                              
-<div width="50%" align="center">
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=balciieren&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
 
-<div width="50%" align="center">
-<h4 align="center">🐍 Snake eating my contribution 🐍</h4>
-<img width="80%" src="https://raw.githubusercontent.com/balciieren/balciieren/output/github-contribution-grid-snake.svg"></div>
+
                                                                                                                         
 <h4 align="center">👨‍💻 Repositories 👨‍💻</h4>
 <br>
