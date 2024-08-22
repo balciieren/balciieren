@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=2000&color=635BF7&background=0CFF6600&center=true&lines=Hi%F0%9F%91%8B%2Cthere+I'm+Eren+%7B%F0%9F%98%8E%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB%7D)](https://git.io/typing-svg)
 
 
-#### I started my software life with C# at the age of 16 in Haydar Akın vocational high school. Today, I continue my education at Çanakkale 18 Mart University Computer Programming, I am trying to adapt to many software languages ​​with my education.
+#### I, Eren, have worked in software and customer consultancy in my business life. As for the Education Department, I first graduated from high school with a degree in Web Design from Haydar Akın Vocational and Technical Anatolian High School, and then I graduated from Çanakkale Onsekiz Mart University with an associate degree in computer programming. Currently, I am still studying in open education departments, while I am studying associate degree in medical documentation and secretarial studies at Anadolu University open education faculty, I am also studying management and information systems in the undergraduate department at Ankara University open education faculty. When I have time, I focus on improving myself in software, history, mathematics, economics and foreign languages.
+
 #### Yazılım hayatıma 16 yaşında Haydar Akın meslek lisesinde C# ile başladım. Bugün Çanakkale 18 Mart Üniversitesi Bilgisayar Programcılığı'nda eğitimime devam etmekteyim, eğitimim ile bir çok yazılım diline uyum sağlamaya çalışıyorum.
 
 
